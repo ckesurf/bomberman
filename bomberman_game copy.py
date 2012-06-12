@@ -1,4 +1,4 @@
-# Eric Blau
+# Chris Erlendson and Eric Blau
 # Final Project
 
 from visual import *
